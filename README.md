@@ -23,9 +23,20 @@ Por ejemplo, un código sería:
 
 ## CSS
 
-Las hojas de estilo CSS nos permiten personalizar el aspecto de nuestras páginas web
+Las hojas de estilo **CSS** nos permiten personalizar el aspecto de nuestras páginas web. Por ejemplo:
+
+```css
+body{
+  background-color: black;
+  color: white;
+}
+```
 
 ## JavaScript
 
-El lenguaje JavaScript nos permite hacer páginas dinámicas que cambian según el usuario y cómo interacciona con los elementos de la página.
+El lenguaje **JavaScript** nos permite hacer páginas dinámicas que cambian según el usuario y cómo interacciona con los elementos de la página. Por ejemplo:
+
+```javascript
+document.getElementByID('demo').innerHTML = "hola a todos"
+```
 
