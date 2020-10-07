@@ -39,4 +39,4 @@ El lenguaje **JavaScript** nos permite hacer páginas dinámicas que cambian seg
 ```javascript
 document.getElementByID('demo').innerHTML = "hola a todos"
 ```
-
+Hasta luego
